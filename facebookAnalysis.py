@@ -1,3 +1,5 @@
+#Facebook Dataset is used to find out popularities via PageRank(with teleportation) , similarities
+#(jacckardt distance similarty and cosine distance similarity) and clusers detection(with kmeans and hierarchical clustering)
 #Caner Yildirim
 #caneryild163@gmail.com
 #https://snap.stanford.edu/data/egonets-Facebook.html
