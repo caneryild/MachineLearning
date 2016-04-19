@@ -1,3 +1,4 @@
+%detection of web pages whether they belong to student or instructor etc. / Naive Bayes(with binomial or multinomial) with td-idf
 smooth=input('Calculate with smoothing');
 load('folds.txt');
 dataset = importdata('data.txt');
