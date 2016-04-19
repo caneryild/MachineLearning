@@ -1,7 +1,5 @@
 #Caner Yildirim
-#Cansu Tuzmen
-#utku bozoklu
-#gozde gunes
+#caneryild163@gmail.com
 #https://snap.stanford.edu/data/egonets-Facebook.html
 import numpy as np
 import networkx as nx
